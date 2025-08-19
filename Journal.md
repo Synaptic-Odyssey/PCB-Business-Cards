@@ -46,7 +46,7 @@ The front was simple and elegant, but I wanted the back to be something that mak
 
 Here is the footprint of the full design:
 
-![V1_footprint](C:\Users\kevin\GitHub\PCB-Business-Cards\images\V1\designV1_footprint.png)
+![V1_footprint](images/V1/designV1_footprint.png)
 
 
 **Total time spent: 5.5 hrs**

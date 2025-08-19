@@ -18,13 +18,18 @@ I decided to create a PCB business card after seeing this youtube video of one g
 # 7/21: Day 1 of Design: Front
 
 I knew immediately that I wanted my design to look really sleek, sort of like a credit card. I found some inspiration from the venmo card, the gold color from the monopoly card, and some other cards. I decided to arrange the footprints of the resistor, capacitor, and nfc chip to match the chip on the credit cards.
+
 Images of my inspo:
+
 ![generic_credit_card](images/inspo/credit_card1.png)
+
 ![monopoly_card](images/inspo/monopoly_credit.png)
+
 ![venmo_card](images/inspo/Venmo_credit.png)
 
 I then proceeded to spend a ridiculous amount of time drawing my name in cursive. I also had the idea of using the golden LED as a the dot on my "i" in my name, and toyed a bit with adding an image of a lightbulb around it on the silkscreen. By choosing gold tracing on my PCB and removing the soldermask, I was able to get the classic gold look.
 Here is a look at the front of the card:
+
 ![V1_front](images/V1/designV1_3dfront.png) 
 
 
@@ -40,6 +45,7 @@ The front was simple and elegant, but I wanted the back to be something that mak
 ![V1_back](images/V1/design_v1back.png)
 
 Here is the footprint of the full design:
+
 ![V1_footprint](C:\Users\kevin\GitHub\PCB-Business-Cards\images\V1\designV1_footprint.png)
 
 
@@ -50,11 +56,15 @@ Here is the footprint of the full design:
 # 8/16: Design V2
 
 Between 7/22 and 8/16 I went on a vacation and I got caught up in some other stuff (totally not an excuse for procrastinating trust). I sent out the initial design to some of my friends, and they gave a lot of valuable feedback. I decided to add a 8 cm and 3 inch ruler to the back of my PCB (where the creation of adam resides) because there was some space and because there needed to be more functionality and thus incentive for people to actually keep the business card. I also added my phone number! In the front, I added more detail describing who I am (the product designer part) along with a few other minor changes for better clarity and visibility.
+
 Also to clarify, I am an incoming freshman at UCLA, however I am still 18 (my birthday is on 6/6/2007) which complies with Hack Club rules and which is why I'm applying for the grant (and yes the blue gold coloring of the card is indeed inspired by the UCLA logo!)
 
 Here is a look at the final design!:
+
 ![V2_front](images/V2/design_v2_front3d.png)
+
 ![V2_back](images/V2/design_v2_back3d.png)
+
 ![V2_footprint](images/V2/design_v2_footprint.png)
 
 **Total time spent: 1h**

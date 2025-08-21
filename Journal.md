@@ -68,3 +68,4 @@ Here is a look at the final design!:
 ![V2_footprint](images/V2/design_v2_footprint.png)
 
 **Total time spent: 1h**
+
